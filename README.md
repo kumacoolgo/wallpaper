@@ -3,3 +3,4 @@
 * 2.[ghost](https://kuma.cool/ghost.html)
 * 3.[fish](https://kuma.cool/fish.html)
 * 4.[puzzle](https://kuma.cool/puzzle.html)
+* 5.[desktopHouse](https://kuma.cool/desktopHouse.html)
